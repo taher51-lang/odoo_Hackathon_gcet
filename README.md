@@ -1,4 +1,5 @@
-# 🚀 Human Resource Management System (HRMS)
+# ODOO X GCET Hackathon virtual round solution
+## 🚀 Human Resource Management System (HRMS)
 A comprehensive digital solution designed to streamline core HR operations, automate workflows, and provide a centralized hub for employee management.
 # 📋 Project Overview
 The HRMS is built to bridge the gap between employees and HR administration. By digitizing tasks like attendance tracking, leave requests, and payroll visibility, the system reduces manual paperwork and ensures data accuracy across the organization.
